@@ -1,2 +1,2 @@
 # Learningc
- learn laanguage c 
+ learn language c 
