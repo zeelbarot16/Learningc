@@ -1,2 +1,2 @@
-# Learningc
- learn language c 
+# Learningpython 
+ learn language 
